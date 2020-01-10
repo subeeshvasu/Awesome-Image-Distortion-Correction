@@ -76,7 +76,11 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)[[Dataset]](https://bbzh.github.io/document/data.rar)[[Code]](https://github.com/ThomasZiegler/RS-aware-differential-SfM)
 
+[-] 2018-PRL - Robustified SfM with Rolling-Shutter Camera Using Straightness Constraint. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518301247)
+
 [-] 2018-CVPR - Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bapat_Rolling_Shutter_and_CVPR_2018_paper.html)
+
+[-] 2018-ECCV - Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yizhen_Lao_Rolling_Shutter_Pose_ECCV_2018_paper.html)[[Project page]](https://yizhenlao.github.io/)
 
 [-] 2018-CVPR - Occlusion-Aware Rolling Shutter Rectification of 3D Scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.html)
 
