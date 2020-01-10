@@ -10,7 +10,7 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 # Multi-image/Video
 
-
+[-] 2005 - Geometric models of rolling-shutter cameras. [[Paper]](https://arxiv.org/abs/cs/0503076) 
 
 [-] 2005 - Rolling shutter distortion correction. [[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5960/59603V/Rolling-shutter-distortion-correction/10.1117/12.632671.full) 
 
