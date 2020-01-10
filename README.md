@@ -10,8 +10,7 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2018-CVPR - A Robust Method for Strong Rolling Shutter Effects Correction Using Lines With Automatic Feature Selection. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lao_A_Robust_Method_CVPR_2018_paper.html)
 
-
-[-] 2019-CVPR - Learning Structure-And-Motion-Aware Rolling Shutter Correction. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)
+[-] 2019-CVPR - Learning Structure-And-Motion-Aware Rolling Shutter Correction. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)[[Project Page]](http://www.nec-labs.com/~mas/SMARSC/)
 
 
 # Multi-image/Video
@@ -73,12 +72,11 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2017-CVPR - Self-Calibration-Based Approach to Critical Motion Sequences of Rolling-Shutter Structure From Motion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Ito_Self-Calibration-Based_Approach_to_CVPR_2017_paper.html)
 
-
 [-] 2017-ICRA - Rrd-slam: Radial-distorted rolling-shutter direct slam. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7989602/)
 
-[-] 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)
+[-] 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)[[Dataset]](https://bbzh.github.io/document/data.rar)[[Code]](https://github.com/ThomasZiegler/RS-aware-differential-SfM)
 
-[-] 2018-CVPR - Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bapat_Rolling_Shutter_and_CVPR_2018_paper.html)[[Code]](https://github.com/ThomasZiegler/RS-aware-differential-SfM)
+[-] 2018-CVPR - Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bapat_Rolling_Shutter_and_CVPR_2018_paper.html)
 
 [-] 2018-CVPR - Occlusion-Aware Rolling Shutter Rectification of 3D Scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.html)
 
