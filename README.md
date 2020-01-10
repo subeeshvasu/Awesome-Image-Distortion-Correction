@@ -26,6 +26,9 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2008-TCE - Suppressing rollingshutter distortion of cmos image sensors by motion vector detection. [[Paper]](https://www.researchgate.net/profile/Chong-Min_Kyung/publication/224358736_Suppressing_Rolling-Shutter_Distortion_of_CMOS_Image_Sensors_by_Motion_Vector_Detection/links/00b495219bbfdeb1b1000000/Suppressing-Rolling-Shutter-Distortion-of-CMOS-Image-Sensors-by-Motion-Vector-Detection.pdf)
 
+[-] 2008-TIP - Analysis and compensation of rolling shutter effect. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.493.2766&rep=rep1&type=pdf)
+
+
 [-] 2010-CVPR - Removing rolling shutter wobble. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/03/main.pdf)
 
 [-] 2010-CVPR - Rectifying rolling shutter video from hand-held devices. [[Paper]](https://www.cvl.isy.liu.se/research/datasets/rs-dataset/0382.pdf)[[Project page & Datatset]](https://www.cvl.isy.liu.se/research/datasets/rs-dataset/)
