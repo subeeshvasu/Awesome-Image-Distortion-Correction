@@ -18,6 +18,9 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2012-ICCP - Calibration-free rolling shutter removal. [[Paper]](https://smartech.gatech.edu/bitstream/handle/1853/48740/2012-Grundmann-CRSR.pdf?sequence=1&isAllowed=y)
 
+[-] 2012-IJCV - Efficient video rectification and stabilisation for cell-phones. [[Paper]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s11263-011-0465-8.pdf&casa_token=LkIfIK_iEFEAAAAA:fimMIBjrcp5_ieWzVazw01Uf0n0IimeqrnC8A2wuTbQGqDrXPCMi5tU00YCYB8VBhYqbt0GTt5QLW3VC)
+
+
 [-] 2011-CVPR - Blind deconvolution using a normalized sparsity measure. [[Paper]](https://dilipkay.files.wordpress.com/2019/04/priors_cvpr11.pdf)[[Code & Project page]](https://dilipkay.wordpress.com/blind-deconvolution/) 
 
 
