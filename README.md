@@ -36,6 +36,9 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2013-ICCV - Rolling shutter stereo. [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/html/Saurer_Rolling_Shutter_Stereo_2013_ICCV_paper.html)
 
+[-] 2013-ICCV - A Unified Rolling Shutter and Motion Blur Model for 3D Visual Registration. [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/html/Meilland_A_Unified_Rolling_2013_ICCV_paper.html)
+
+
 [-] 2015-CVPR - R6p-rolling shutter absolute camera pose. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Albl_R6P_-_Rolling_2015_CVPR_paper.html)
 
 [-] 2015-CVPR - Rolling shutter motion deblurring. [[Paper]]()
@@ -46,9 +49,9 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2016-CVPR - Rolling Shutter Camera Relative Pose: Generalized Epipolar Geometry. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Dai_Rolling_Shutter_Camera_CVPR_2016_paper.html)
 
-[-] 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)
+[-] 2017-CVPR - Self-Calibration-Based Approach to Critical Motion Sequences of Rolling-Shutter Structure From Motion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Ito_Self-Calibration-Based_Approach_to_CVPR_2017_paper.html)
 
-[-] 2011-CVPR - Blind deconvolution using a normalized sparsity measure. [[Paper]](https://dilipkay.files.wordpress.com/2019/04/priors_cvpr11.pdf)[[Code & Project page]](https://dilipkay.wordpress.com/blind-deconvolution/) 
+[-] 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)
 
 
 
