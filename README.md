@@ -71,4 +71,4 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2018-CVPR - Occlusion-Aware Rolling Shutter Rectification of 3D Scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.html)
 
-
+[-] 2019-PAMI - Rolling shutter camera absolute pose. [[Paper]](https://ieeexplore.ieee.org/document/8621045)
