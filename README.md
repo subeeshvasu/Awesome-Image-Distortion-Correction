@@ -8,6 +8,12 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2017-ICCV - Rolling Shutter Correction in Manhattan World. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Purkait_Rolling_Shutter_Correction_ICCV_2017_paper.html)
 
+[-] 2018-CVPR - A Robust Method for Strong Rolling Shutter Effects Correction Using Lines With Automatic Feature Selection. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lao_A_Robust_Method_CVPR_2018_paper.html)
+
+
+[-] 2019-CVPR - Learning Structure-And-Motion-Aware Rolling Shutter Correction. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)
+
+
 # Multi-image/Video
 
 [-] 2005 - Geometric models of rolling-shutter cameras. [[Paper]](https://arxiv.org/abs/cs/0503076) 
@@ -32,16 +38,24 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2012-IJCV - Efficient video rectification and stabilisation for cell-phones. [[Paper]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s11263-011-0465-8.pdf&casa_token=LkIfIK_iEFEAAAAA:fimMIBjrcp5_ieWzVazw01Uf0n0IimeqrnC8A2wuTbQGqDrXPCMi5tU00YCYB8VBhYqbt0GTt5QLW3VC)
 
+[-] 2013-CVPR - Rolling Shutter Camera Calibration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Oth_Rolling_Shutter_Camera_2013_CVPR_paper.html)
+
 [-] 2013-ICCV - Street view motion-from-structure-from-motion. [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/html/Klingner_Street_View_Motion-from-Structure-from-Motion_2013_ICCV_paper.html)
 
 [-] 2013-ICCV - Rolling shutter stereo. [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/html/Saurer_Rolling_Shutter_Stereo_2013_ICCV_paper.html)
 
 [-] 2013-ICCV - A Unified Rolling Shutter and Motion Blur Model for 3D Visual Registration. [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/html/Meilland_A_Unified_Rolling_2013_ICCV_paper.html)
 
-
 [-] 2015-CVPR - R6p-rolling shutter absolute camera pose. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Albl_R6P_-_Rolling_2015_CVPR_paper.html)
 
-[-] 2015-CVPR - Rolling shutter motion deblurring. [[Paper]]()
+[-] 2015-CVPR - Rolling shutter motion deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Su_Rolling_Shutter_Motion_2015_CVPR_paper.html)
+
+[-] 2015-ICCV - Rolling Shutter Super-Resolution. [[Paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Punnappurath_Rolling_Shutter_Super-Resolution_ICCV_2015_paper.html)
+
+[-] 2015-ICCV - High Quality Structure From Small Motion for Rolling Shutter Cameras. [[Paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Im_High_Quality_Structure_ICCV_2015_paper.html)
+
+[-] 2015-ICCV - Dense Continuous-Time Tracking and Mapping With Rolling Shutter RGB-D Cameras. [[Paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Kerl_Dense_Continuous-Time_Tracking_ICCV_2015_paper.html)
+
 
 [-] 2016-CVPR - Sparse to dense 3d reconstruction from rolling shutter images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Saurer_Sparse_to_Dense_CVPR_2016_paper.html)
 
@@ -53,5 +67,8 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)
 
+[-] 2018-CVPR - Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bapat_Rolling_Shutter_and_CVPR_2018_paper.html)
+
+[-] 2018-CVPR - Occlusion-Aware Rolling Shutter Rectification of 3D Scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.html)
 
 
