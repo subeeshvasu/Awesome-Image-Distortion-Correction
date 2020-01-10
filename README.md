@@ -70,6 +70,9 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2017-CVPR - Self-Calibration-Based Approach to Critical Motion Sequences of Rolling-Shutter Structure From Motion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Ito_Self-Calibration-Based_Approach_to_CVPR_2017_paper.html)
 
+
+[-] 2017-ICRA - Rrd-slam: Radial-distorted rolling-shutter direct slam. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7989602/)
+
 [-] 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)
 
 [-] 2018-CVPR - Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bapat_Rolling_Shutter_and_CVPR_2018_paper.html)
