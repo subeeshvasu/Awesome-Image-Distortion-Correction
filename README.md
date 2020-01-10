@@ -21,6 +21,8 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2010-CVPR - Removing rolling shutter wobble. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/03/main.pdf)
 
+[-] 2010-CVPR - Rectifying rolling shutter video from hand-held devices. [[Paper]](https://www.cvl.isy.liu.se/research/datasets/rs-dataset/0382.pdf)[[Project page & Datatset]] (https://www.cvl.isy.liu.se/research/datasets/rs-dataset/)
+
 [-] 2011-ICIP - Automatic video deshearing for skew sequences captured by rolling shutter cameras. [[Paper]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2011/papers/1569409231.pdf)
 
 [-] 2012-ICCP - Calibration-free rolling shutter removal. [[Paper]](https://smartech.gatech.edu/bitstream/handle/1853/48740/2012-Grundmann-CRSR.pdf?sequence=1&isAllowed=y)
