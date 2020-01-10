@@ -27,7 +27,13 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 [-] 2012-ICCP - Calibration-free rolling shutter removal. [[Paper]](https://smartech.gatech.edu/bitstream/handle/1853/48740/2012-Grundmann-CRSR.pdf?sequence=1&isAllowed=y)
 
+[-] 2012-ECCV - Global optimization of object pose and motion from a single rolling shutter image with automatic 2d-3d matching. [[Paper]](https://magerand.fr/public/Publications/ECCV12.pdf)
+
 [-] 2012-IJCV - Efficient video rectification and stabilisation for cell-phones. [[Paper]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s11263-011-0465-8.pdf&casa_token=LkIfIK_iEFEAAAAA:fimMIBjrcp5_ieWzVazw01Uf0n0IimeqrnC8A2wuTbQGqDrXPCMi5tU00YCYB8VBhYqbt0GTt5QLW3VC)
+
+[-] 2013-ICCV - Street view motion-from-structure-from-motion. [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/html/Klingner_Street_View_Motion-from-Structure-from-Motion_2013_ICCV_paper.html)
+
+
 
 [-] 2015-CVPR - R6p-rolling shutter absolute camera pose. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Albl_R6P_-_Rolling_2015_CVPR_paper.html)
 
