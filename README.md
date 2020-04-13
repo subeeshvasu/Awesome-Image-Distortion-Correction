@@ -12,6 +12,8 @@ A curated list of resources on Handling Rolling Shutter Effects
 
 - 2019-CVPR - Learning Structure-And-Motion-Aware Rolling Shutter Correction. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)[[Project Page]](http://www.nec-labs.com/~mas/SMARSC/)
 
+- 2020-CVPR - Deep shutter unrolling network. [[Paper]]()
+
 
 # Multi-image/Video
 
