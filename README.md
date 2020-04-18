@@ -119,4 +119,8 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 + 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
 
-+ 2019-CVPR - Blind geometric distortion correction on images through deep learning. [[Paper]](https://arxiv.org/abs/1909.03459)
++ 2019-CVPR - Blind geometric distortion correction on images through deep learning. [[Paper]](https://arxiv.org/abs/1909.03459)[[Code]](https://github.com/xiaoyu258/GeoProj)
+
+# Other Resources
+
+[[awesome-image-rectification]](https://github.com/Mckinsey666/awesome-image-rectification)
