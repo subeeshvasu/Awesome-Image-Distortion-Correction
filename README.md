@@ -93,11 +93,19 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 + 2003 - Robust Line-Based Calibration of Lens Distortion from a Single View. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.6792&rep=rep1&type=pdf)
 
++ 2007-PAMI - Parameter-free radial distortion correction with center of distortion estimation. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.2661&rep=rep1&type=pdf)
+
 + 2009-PAMI -  Calibration of cameras with radially symmetric distortion. [[Paper]](https://hal.inria.fr/inria-00524395/document)
 
 + 2009-JMIV - A simple method of radial distortion correction with centre of distortion estimation. [[Paper]](https://link.springer.com/article/10.1007/s10851-009-0162-1)
 
++ 2011-PAMI - A minimal solution to radial distortion autocalibration. [[Paper]](https://www.researchgate.net/profile/Zuzana_Kukelova/publication/224236776_A_Minimal_Solution_to_Radial_Distortion_Autocalibration/links/00b7d51ffa8e0969c9000000/A-Minimal-Solution-to-Radial-Distortion-Autocalibration.pdf)
+
 + 2013-JMIV - Automatic radial distortion estimation from a single image. [[Paper]](https://link.springer.com/article/10.1007/s10851-012-0342-2)
+
++ 2013-CVPR - Radial distortion self-calibration. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Brito_Radial_Distortion_Self-Calibration_2013_CVPR_paper.pdf)
+
++ 2014-ICIP - Auto-rectification of user photos. [[Paper]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42532.pdf)
 
 + 2015-CVPR - Line-based multi-label energy optimization for fisheye image rectification and calibration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)
 
