@@ -91,11 +91,19 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 + 2001-CVPR - Simultaneous linear estimation of multiple view geometry and lens distortion. [[Paper]](http://www.robots.ox.ac.uk/~vgg/publications/papers/fitzgibbon01b.pdf)
 
++ 2003 - Robust Line-Based Calibration of Lens Distortion from a Single View. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.6792&rep=rep1&type=pdf)
+
++ 2009-PAMI -  Calibration of cameras with radially symmetric distortion. [[Paper]](https://hal.inria.fr/inria-00524395/document)
+
++ 2009-JMIV - A simple method of radial distortion correction with centre of distortion estimation. [[Paper]](https://link.springer.com/article/10.1007/s10851-009-0162-1)
+
 + 2013-JMIV - Automatic radial distortion estimation from a single image. [[Paper]](https://link.springer.com/article/10.1007/s10851-012-0342-2)
 
 + 2015-CVPR - Line-based multi-label energy optimization for fisheye image rectification and calibration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)
 
 + 2016-ACCV - Radial lens distortion correction using convolutional neural networks trained with synthesized images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)
+
++ 2017-CVIU - Automatic correction of perspective and optical distortions. [[Paper]](https://www.sciencedirect.com/science/article/pii/S107731421730111X)
 
 + 2018-ECCV - FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoqing_Yin_FishEyeRecNet_A_Multi-Context_ECCV_2018_paper.html)
 
