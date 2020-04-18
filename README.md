@@ -123,4 +123,4 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 # Other Resources
 
-[[awesome-image-rectification]](https://github.com/Mckinsey666/awesome-image-rectification)
++ [[awesome-image-rectification]](https://github.com/Mckinsey666/awesome-image-rectification)
