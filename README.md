@@ -1,4 +1,6 @@
-A curated list of resources on Handling Rolling Shutter Effects
+A curated list of resources on Handling Rolling Shutter Effects and Radial Distortions
+
+## Rolling shutter Effects
 
 # Single-Image
 
