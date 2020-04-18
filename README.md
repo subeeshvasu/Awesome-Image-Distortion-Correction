@@ -1,8 +1,8 @@
 A curated list of resources on Handling Rolling Shutter Effects and Radial Distortions
 
-## Rolling shutter Effects
+# Rolling shutter Effects
 
-# Single-Image
+## Single-Image
 
 - 2016-CVPR - From bows to arrows: Rolling shutter rectification of urban scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Rengarajan_From_Bows_to_CVPR_2016_paper.html)
 
@@ -17,7 +17,7 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 - 2020-CVPR - Deep shutter unrolling network. [[Paper]]()
 
 
-# Multi-image/Video
+## Multi-image/Video
 
 - 2005 - Geometric models of rolling-shutter cameras. [[Paper]](https://arxiv.org/abs/cs/0503076) 
 
@@ -86,3 +86,21 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 - 2018-CVPR - Occlusion-Aware Rolling Shutter Rectification of 3D Scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.html)
 
 - 2019-PAMI - Rolling shutter camera absolute pose. [[Paper]](https://ieeexplore.ieee.org/document/8621045)
+
+# Radial Distortion
+
++ 2001-CVPR - Simultaneous linear estimation of multiple view geometry and lens distortion. [[Paper]](http://www.robots.ox.ac.uk/~vgg/publications/papers/fitzgibbon01b.pdf)
+
++ 2013-JMIV - Automatic radial distortion estimation from a single image. [[Paper]](https://link.springer.com/article/10.1007/s10851-012-0342-2)
+
++ 2015-CVPR - Line-based multi-label energy optimization for fisheye image rectification and calibration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)
+
++ 2016-ACCV - Radial lens distortion correction using convolutional neural networks trained with synthesized images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)
+
++ 2018-ECCV - FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoqing_Yin_FishEyeRecNet_A_Multi-Context_ECCV_2018_paper.html)
+
++ 2018-ICPR - Radial lens distortion correction by adding a weight layer with inverted foveal models to convolutional neural networks. [[Paper]](https://ieeexplore.ieee.org/document/8545218)
+
++ 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
+
++ 2019-CVPR - Blind geometric distortion correction on images through deep learning. [[Paper]](https://arxiv.org/abs/1909.03459)
