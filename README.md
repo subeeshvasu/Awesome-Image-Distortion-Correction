@@ -91,7 +91,7 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 - 2020-CVPR - From two rolling shutters to one global shutter. [[Paper]]()
 
-
+- 2020-CVPR - Deep shutter unrolling network. [[Paper]]()
 
 # Radial Distortion
 
