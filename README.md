@@ -89,6 +89,10 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 - 2019-PAMI - Rolling shutter camera absolute pose. [[Paper]](https://ieeexplore.ieee.org/document/8621045)
 
+- 2020-CVPR - From two rolling shutters to one global shutter. [[Paper]]()
+
+
+
 # Radial Distortion
 
 + 2001-CVPR - Simultaneous linear estimation of multiple view geometry and lens distortion. [[Paper]](http://www.robots.ox.ac.uk/~vgg/publications/papers/fitzgibbon01b.pdf)
