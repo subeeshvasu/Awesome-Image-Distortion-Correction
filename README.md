@@ -39,6 +39,8 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 - 2011 - Digital video stabilization and rolling shutter correction using gyroscopes. [[Paper]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2011/papers/1569409231.pdf)
 
+- 2012-TCE - Rolling shutter distortion removal based on curve interpolation. [[Paper]](https://ieeexplore.ieee.org/document/6311354)
+
 - 2012-ICCP - Calibration-free rolling shutter removal. [[Paper]](https://smartech.gatech.edu/bitstream/handle/1853/48740/2012-Grundmann-CRSR.pdf?sequence=1&isAllowed=y)
 
 - 2012-CVPR - Rolling shutter bundle adjustment. [[Paper]](http://users.isy.liu.se/cvl/perfo/papers/hedborg_cvpr12.pdf)
