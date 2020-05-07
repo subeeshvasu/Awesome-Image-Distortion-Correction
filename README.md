@@ -67,6 +67,8 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 - 2015-ICCV - Dense Continuous-Time Tracking and Mapping With Rolling Shutter RGB-D Cameras. [[Paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Kerl_Dense_Continuous-Time_Tracking_ICCV_2015_paper.html)
 
+- 2016-ISP - An affine motion model for removing rolling shutter distortions. [[Paper]](https://ieeexplore.ieee.org/document/7514947)
+
 - 2016-CVPR - Sparse to dense 3d reconstruction from rolling shutter images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Saurer_Sparse_to_Dense_CVPR_2016_paper.html)
 
 - 2016-CVPR - Rolling Shutter Absolute Pose Problem With Known Vertical Direction. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Albl_Rolling_Shutter_Absolute_CVPR_2016_paper.html)
