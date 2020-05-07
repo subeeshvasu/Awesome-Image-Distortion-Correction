@@ -49,6 +49,8 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 - 2013-CVPR - Rolling Shutter Camera Calibration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Oth_Rolling_Shutter_Camera_2013_CVPR_paper.html)
 
+- 2013-TOG - Bundled camera paths for video stabilization. [[Paper]](https://www.cs.sfu.ca/~pingtan/Papers/siggraph13.pdf)
+
 - 2013-ICCV - Street view motion-from-structure-from-motion. [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/html/Klingner_Street_View_Motion-from-Structure-from-Motion_2013_ICCV_paper.html)
 
 - 2013-ICCV - Rolling shutter stereo. [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/html/Saurer_Rolling_Shutter_Stereo_2013_ICCV_paper.html)
@@ -83,9 +85,9 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 - 2018-CVPR - Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bapat_Rolling_Shutter_and_CVPR_2018_paper.html)
 
-- 2018-ECCV - Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yizhen_Lao_Rolling_Shutter_Pose_ECCV_2018_paper.html)[[Project page]](https://yizhenlao.github.io/)
-
 - 2018-CVPR - Occlusion-Aware Rolling Shutter Rectification of 3D Scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.html)
+
+- 2018-ECCV - Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yizhen_Lao_Rolling_Shutter_Pose_ECCV_2018_paper.html)[[Project page]](https://yizhenlao.github.io/)
 
 - 2019-PAMI - Rolling shutter camera absolute pose. [[Paper]](https://ieeexplore.ieee.org/document/8621045)
 
