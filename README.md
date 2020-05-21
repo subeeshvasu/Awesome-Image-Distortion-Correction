@@ -97,7 +97,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 - 2020-CVPR - From two rolling shutters to one global shutter. [[Paper]]()
 
-- 2020-CVPR - Deep shutter unrolling network. [[Paper]]()
+- 2020-CVPR - Deep shutter unrolling network. [[Paper]](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)[[Code]](https://github.com/ethliup/DeepUnrollNet)
 
 # Radial Distortions
 
@@ -197,6 +197,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
 
+- 2020-CVPR - Deep shutter unrolling network. [[Paper]](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)[[Dataset]](https://github.com/ethliup/DeepUnrollNet)
 
 # Other Resources
 
