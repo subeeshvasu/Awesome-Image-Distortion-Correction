@@ -1,4 +1,4 @@
-A curated list of resources on Handling Rolling Shutter Effects and Radial Distortions
+A curated list of resources on Handling Rolling Shutter Effects, Radial Distortions, and Text distortions.
 
 # Rolling shutter Effects
 
@@ -99,7 +99,7 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 - 2020-CVPR - Deep shutter unrolling network. [[Paper]]()
 
-# Radial Distortion
+# Radial Distortions
 
 + 2001-CVPR - Simultaneous linear estimation of multiple view geometry and lens distortion. [[Paper]](http://www.robots.ox.ac.uk/~vgg/publications/papers/fitzgibbon01b.pdf)
 
@@ -134,6 +134,24 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 + 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
 
 + 2019-CVPR - Blind geometric distortion correction on images through deep learning. [[Paper]](https://arxiv.org/abs/1909.03459)[[Code]](https://github.com/xiaoyu258/GeoProj)
+
+# Text Distortions
+
+  + 2019-PR - MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition. [[Paper]](https://arxiv.org/abs/1901.03003) [[Code]](https://github.com/Canjie-Luo/MORAN_v2)
+
++ 2019-CVPR - ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
+
++ 2019-CVPR - Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Arbitrary_Shape_Scene_Text_Detection_With_Adaptive_Text_Region_Representation_CVPR_2019_paper.html)
+ 
+ + 2019-CVPR - Towards Robust Curve Text Detection with Conditional Spatial Expansion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)
+ 
+ + 2019-ICCV - Symmetry-constrained Rectification Network for Scene Text Recognition. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
+ 
+# Other forms of distortions
+
+ + 2018-ECCV - GridFace: Face Rectification via Learning Local Homography Transformations. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.html)
+ 
+ 
 
 # Other Resources
 
