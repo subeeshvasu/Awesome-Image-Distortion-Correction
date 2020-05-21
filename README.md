@@ -127,6 +127,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + 2018-ECCV - FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoqing_Yin_FishEyeRecNet_A_Multi-Context_ECCV_2018_paper.html)
 
++ 2018-ECCVW - Semantic Segmentation of Fisheye Images. [[Paper]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Blott_Semantic_Segmentation_of_Fisheye_Images_ECCVW_2018_paper.pdf)
+
 + 2018-ICPR - Radial lens distortion correction by adding a weight layer with inverted foveal models to convolutional neural networks. [[Paper]](https://ieeexplore.ieee.org/document/8545218)
 
 + 2018-TCSVT - DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time. [[Paper]](https://ieeexplore.ieee.org/document/8636975)
@@ -137,7 +139,9 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 # Text Distortions
 
-  + 2019-PR - MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition. [[Paper]](https://arxiv.org/abs/1901.03003) [[Code]](https://github.com/Canjie-Luo/MORAN_v2)
++ 2016-CVPR - Robust Scene Text Recognition with Automatic Rectification. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)
+
++ 2019-PR - MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition. [[Paper]](https://arxiv.org/abs/1901.03003) [[Code]](https://github.com/Canjie-Luo/MORAN_v2)
 
 + 2019-CVPR - ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
 
@@ -149,9 +153,15 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
  
 # Other forms of distortions
 
- + 2018-ECCV - GridFace: Face Rectification via Learning Local Homography Transformations. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.html)
++ 2018-ICB - Fingerprint Distortion Rectification using Deep Convolutional Neural Networks. [[Paper]](https://arxiv.org/abs/1801.01198)
+
++ 2018-IJCAI - Distortion-aware CNNs for Spherical Images. [[Paper]](https://www.ijcai.org/Proceedings/2018/0167.pdf)
+
++ 2018-ECCV - GridFace: Face Rectification via Learning Local Homography Transformations. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.html)
  
- 
++ 2018-IV - CNN-based Fisheye Image Real-Time Semantic Segmentation. [[Paper]](http://www.robesafe.es/personal/bergasa/papers/iv2018_cnn-fisheye.pdf)
+
+
 
 # Other Resources
 
