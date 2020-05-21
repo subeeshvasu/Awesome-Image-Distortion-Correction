@@ -113,19 +113,37 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + 2011-PAMI - A minimal solution to radial distortion autocalibration. [[Paper]](https://www.researchgate.net/profile/Zuzana_Kukelova/publication/224236776_A_Minimal_Solution_to_Radial_Distortion_Autocalibration/links/00b7d51ffa8e0969c9000000/A-Minimal-Solution-to-Radial-Distortion-Autocalibration.pdf)
 
++ 2012-JMIV - Automatic Radial Distortion Estimation from a Single Image. [[Paper]](http://www.cs.ait.ac.th/vgl/faisal/paper/JMIV-Paper.pdf)
+
 + 2013-JMIV - Automatic radial distortion estimation from a single image. [[Paper]](https://link.springer.com/article/10.1007/s10851-012-0342-2)
 
 + 2013-CVPR - Radial distortion self-calibration. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Brito_Radial_Distortion_Self-Calibration_2013_CVPR_paper.pdf)
 
 + 2014-ICIP - Auto-rectification of user photos. [[Paper]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42532.pdf)
 
++ 2014-ICIP - Radial distortion correction from a single image of a planar calibration pattern using convex optimization. [[Paper]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569891193.pdf)
+
++ 2014-IPOL - Auto- matic lens distortion correction using one-parameter division models. [[Paper]](https://pdfs.semanticscholar.org/85be/954dcea4cdebbfbee55143a6e605ad813b45.pdf)
+
 + 2015-ICIP - Radial lens distortion correction using cascaded one-parameter division model. [[Paper]](https://ieeexplore.ieee.org/document/7351478)
+
++ 2015-ISVC - Lens Distortion Rectification using Triangulation based Interpolation. [[Paper]](https://arxiv.org/abs/1611.09559)
 
 + 2015-CVPR - Line-based multi-label energy optimization for fisheye image rectification and calibration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)
 
 + 2016-ACCV - Radial lens distortion correction using convolutional neural networks trained with synthesized images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)
 
++ 2017-CVPR - Unsupervised Vanishing Point Detection and Camera Calibration from a Single Manhattan Image with Radial Distortion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Antunes_Unsupervised_Vanishing_Point_CVPR_2017_paper.pdf)
+
++ 2017-ICCV - Parameter-free Lens Distortion Calibration of Central Cameras. [[Paper]](. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)
+
 + 2017-CVIU - Automatic correction of perspective and optical distortions. [[Paper]](https://www.sciencedirect.com/science/article/pii/S107731421730111X)
+
++ 2017-Arxiv - Pixel-variant Local Homography for Fisheye Stereo Rectification Minimizing Resampling Distortion. [[Paper]](https://arxiv.org/abs/1707.03775)
+
++ 2018-ACCV - Rectification from Radially-Distorted Scales. [[Paper]](https://arxiv.org/abs/1807.06110)
+
++ 2018-CVPR - Radially-Distorted Conjugate Translations. [[Paper]](http://cmp.felk.cvut.cz/~chum/papers/Pritts-CVPR18.pdf)
 
 + 2018-ECCV - FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoqing_Yin_FishEyeRecNet_A_Multi-Context_ECCV_2018_paper.html)
 
@@ -140,6 +158,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 + 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
 
 + 2019-CVPR - Blind geometric distortion correction on images through deep learning. [[Paper]](https://arxiv.org/abs/1909.03459)[[Code]](https://github.com/xiaoyu258/GeoProj)
+
++ 2019-CVPR - Deep Single Image Camera Calibration with Radial Distortion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lopez_Deep_Single_Image_Camera_Calibration_With_Radial_Distortion_CVPR_2019_paper.pdf)
 
 # Text Distortions
 
@@ -157,6 +177,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
  
 # Other forms of distortions
 
++ 2013-ICCV - Unsupervised Intrinsic Calibration from a Single Frame Using a "Plumb-Line" Approach. [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Melo_Unsupervised_Intrinsic_Calibration_2013_ICCV_paper.pdf)
+
 + 2017-CVPR - Deep View Morphing. [[Paper]](https://arxiv.org/pdf/1703.02168.pdf)
 
 + 2018-ICB - Fingerprint Distortion Rectification using Deep Convolutional Neural Networks. [[Paper]](https://arxiv.org/abs/1801.01198)
@@ -169,8 +191,15 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + 2019-ICCV - Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations. [[Paper]](https://arxiv.org/abs/1908.01940)
 
+# Datasets
+
++ 2018-Arxiv - Parameterized Synthetic Image Data Set for Fisheye Lens. [[Paper]](https://arxiv.org/abs/1811.04627) [[Dataset]](http://www2.leuphana.de/misl/fisheye-data-set/)
+
++ 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
 
 
 # Other Resources
 
 + [[awesome-image-rectification]](https://github.com/Mckinsey666/awesome-image-rectification)
+
++ [[Image data augmentation by distortion](https://github.com/mdbloice/Augmentor)
