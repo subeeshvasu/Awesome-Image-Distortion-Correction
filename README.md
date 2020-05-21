@@ -187,7 +187,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
  
 + 2018-IV - CNN-based Fisheye Image Real-Time Semantic Segmentation. [[Paper]](http://www.robesafe.es/personal/bergasa/papers/iv2018_cnn-fisheye.pdf)
 
-+ 2019-ICCV - Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations. [[Paper]](https://arxiv.org/abs/1908.01940)
++ 2019-ICCV - Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations. [[Paper]](https://arxiv.org/abs/1908.01940)[[Code]](https://github.com/jeringeo/CompressiveFlows)
 
 # Datasets
 
