@@ -129,6 +129,8 @@ A curated list of resources on Handling Rolling Shutter Effects and Radial Disto
 
 + 2018-ICPR - Radial lens distortion correction by adding a weight layer with inverted foveal models to convolutional neural networks. [[Paper]](https://ieeexplore.ieee.org/document/8545218)
 
++ 2018-TCSVT - DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time. [[Paper]](https://ieeexplore.ieee.org/document/8636975)
+
 + 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
 
 + 2019-CVPR - Blind geometric distortion correction on images through deep learning. [[Paper]](https://arxiv.org/abs/1909.03459)[[Code]](https://github.com/xiaoyu258/GeoProj)
