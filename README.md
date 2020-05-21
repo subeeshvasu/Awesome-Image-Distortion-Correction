@@ -119,6 +119,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + 2014-ICIP - Auto-rectification of user photos. [[Paper]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42532.pdf)
 
++ 2015-ICIP - Radial lens distortion correction using cascaded one-parameter division model. [[Paper]](https://ieeexplore.ieee.org/document/7351478)
+
 + 2015-CVPR - Line-based multi-label energy optimization for fisheye image rectification and calibration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)
 
 + 2016-ACCV - Radial lens distortion correction using convolutional neural networks trained with synthesized images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)
@@ -132,6 +134,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 + 2018-ICPR - Radial lens distortion correction by adding a weight layer with inverted foveal models to convolutional neural networks. [[Paper]](https://ieeexplore.ieee.org/document/8545218)
 
 + 2018-TCSVT - DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time. [[Paper]](https://ieeexplore.ieee.org/document/8636975)
+
++ 2019-TOG - Distortion-Free Wide-Angle Portraits on Camera Phones. [[Paper]](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/shih_sig19_lowres.pdf)[[Project Page]](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/)
 
 + 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
 
@@ -162,6 +166,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 + 2018-ECCV - GridFace: Face Rectification via Learning Local Homography Transformations. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.html)
  
 + 2018-IV - CNN-based Fisheye Image Real-Time Semantic Segmentation. [[Paper]](http://www.robesafe.es/personal/bergasa/papers/iv2018_cnn-fisheye.pdf)
+
++ 2019-ICCV - Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations. [[Paper]](https://arxiv.org/abs/1908.01940)
 
 
 
