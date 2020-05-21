@@ -153,6 +153,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
  
 # Other forms of distortions
 
++ 2017-CVPR - Deep View Morphing. [[Paper]](https://arxiv.org/pdf/1703.02168.pdf)
+
 + 2018-ICB - Fingerprint Distortion Rectification using Deep Convolutional Neural Networks. [[Paper]](https://arxiv.org/abs/1801.01198)
 
 + 2018-IJCAI - Distortion-aware CNNs for Spherical Images. [[Paper]](https://www.ijcai.org/Proceedings/2018/0167.pdf)
