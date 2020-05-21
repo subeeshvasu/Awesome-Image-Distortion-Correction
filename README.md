@@ -181,7 +181,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + 2018-ICB - Fingerprint Distortion Rectification using Deep Convolutional Neural Networks. [[Paper]](https://arxiv.org/abs/1801.01198)
 
-+ 2018-IJCAI - Distortion-aware CNNs for Spherical Images. [[Paper]](https://www.ijcai.org/Proceedings/2018/0167.pdf)
++ 2018-IJCAI - Distortion-aware CNNs for Spherical Images. [[Paper]](https://www.ijcai.org/Proceedings/2018/0167.pdf)[[Project Page]](https://github.com/tdsuper/Distortion-aware-CNNs)
 
 + 2018-ECCV - GridFace: Face Rectification via Learning Local Homography Transformations. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.html)
  
