@@ -161,7 +161,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 # Text Distortions
 
-+ 2016-CVPR - Robust Scene Text Recognition with Automatic Rectification. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)
++ 2016-CVPR - Robust Scene Text Recognition with Automatic Rectification. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)[[Code]](https://github.com/marvis/ocr_attention)
 
 + 2019-PR - MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition. [[Paper]](https://arxiv.org/abs/1901.03003) [[Code]](https://github.com/Canjie-Luo/MORAN_v2)
 
@@ -177,7 +177,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + 2013-ICCV - Unsupervised Intrinsic Calibration from a Single Frame Using a "Plumb-Line" Approach. [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Melo_Unsupervised_Intrinsic_Calibration_2013_ICCV_paper.pdf)
 
-+ 2017-CVPR - Deep View Morphing. [[Paper]](https://arxiv.org/pdf/1703.02168.pdf)
++ 2017-CVPR - Deep View Morphing. [[Paper]](https://arxiv.org/pdf/1703.02168.pdf)[[Project Page]](https://github.com/Gamrix/cs231n_proj)
 
 + 2018-ICB - Fingerprint Distortion Rectification using Deep Convolutional Neural Networks. [[Paper]](https://arxiv.org/abs/1801.01198)
 
@@ -190,6 +190,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 + 2019-ICCV - Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations. [[Paper]](https://arxiv.org/abs/1908.01940)[[Code]](https://github.com/jeringeo/CompressiveFlows)
 
 # Datasets
+
++ 2016-CVPR - Robust Scene Text Recognition with Automatic Rectification. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)[[Dataset]](https://github.com/marvis/ocr_attention)
 
 + 2018-Arxiv - Parameterized Synthetic Image Data Set for Fisheye Lens. [[Paper]](https://arxiv.org/abs/1811.04627) [[Dataset]](http://www2.leuphana.de/misl/fisheye-data-set/)
 
