@@ -202,4 +202,4 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + [[awesome-image-rectification]](https://github.com/Mckinsey666/awesome-image-rectification)
 
-+ [[Image data augmentation by distortion](https://github.com/mdbloice/Augmentor)
++ [Image data augmentation by distortion](https://github.com/mdbloice/Augmentor)
