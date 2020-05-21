@@ -79,7 +79,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 - 2017-CVPR - Self-Calibration-Based Approach to Critical Motion Sequences of Rolling-Shutter Structure From Motion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Ito_Self-Calibration-Based_Approach_to_CVPR_2017_paper.html)
 
-- 2017-ICRA - Rrd-slam: Radial-distorted rolling-shutter direct slam. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7989602/)
+- 2017-ICRA - Rrd-slam: Radial-distorted rolling-shutter direct slam. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7989602/)[[Code]](https://github.com/jaehak/rrd_slam)
 
 - 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)[[Dataset]](https://bbzh.github.io/document/data.rar)[[Code]](https://github.com/ThomasZiegler/RS-aware-differential-SfM)
 
@@ -91,7 +91,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 - 2018-ECCV - Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yizhen_Lao_Rolling_Shutter_Pose_ECCV_2018_paper.html)[[Project page]](https://yizhenlao.github.io/)
 
-- 2019-PAMI - Rolling shutter camera absolute pose. [[Paper]](https://ieeexplore.ieee.org/document/8621045)
+- 2019-PAMI - Rolling shutter camera absolute pose. [[Paper]](https://ieeexplore.ieee.org/document/8621045)[[Code]](http://cmp.felk.cvut.cz/~alblcene/r6p/)
 
 - 2020-CVPR - From two rolling shutters to one global shutter. [[Paper]]()
 
@@ -192,6 +192,8 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 # Datasets
 
 + 2016-CVPR - Robust Scene Text Recognition with Automatic Rectification. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)[[Dataset]](https://github.com/marvis/ocr_attention)
+
+- 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)[[Dataset]](https://bbzh.github.io/document/data.rar)
 
 + 2018-Arxiv - Parameterized Synthetic Image Data Set for Fisheye Lens. [[Paper]](https://arxiv.org/abs/1811.04627) [[Dataset]](http://www2.leuphana.de/misl/fisheye-data-set/)
 
