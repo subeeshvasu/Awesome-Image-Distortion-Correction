@@ -1,6 +1,25 @@
-A curated list of resources on Handling Rolling Shutter Effects, Radial Distortions, and Text distortions.
+<p align="center">
+  <h3 align="center">Image and Video Deblurring</h3>
+  <p align="center">A curated list of resources on Handling Rolling Shutter Effects, Radial Distortions, and Text distortions.
+    <br />
+    <br />
+    <br />
+    <a href="https://github.com/subeeshvasu/Awesome-Deblurring/issues/new">Suggest new item</a>
+    <br />
+    <a href="https://github.com/subeeshvasu/Awesome-Deblurring/issues/new">Report Bug</a>
+  </p>
+</p>
 
-# Rolling shutter Effects
+## Table of contents
+
+- [Rolling-shutter-Effects](#Rolling-shutter-Effects)
+- [Radial-Distortions](#Radial-Distortions)
+- [Text-Distortions](#Text-Distortions)
+- [Datasets](#datasets)
+- [Other-Resources](#Other-Resources)
+
+
+# Rolling-shutter-Effects
 
 ## Single-Image
 
@@ -97,7 +116,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 - 2020-CVPR - Deep shutter unrolling network. [[Paper]](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)[[Code]](https://github.com/ethliup/DeepUnrollNet)
 
-# Radial Distortions
+# Radial-Distortions
 
 + 2001-CVPR - Simultaneous linear estimation of multiple view geometry and lens distortion. [[Paper]](http://www.robots.ox.ac.uk/~vgg/publications/papers/fitzgibbon01b.pdf)
 
@@ -159,7 +178,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 + 2019-CVPR - Deep Single Image Camera Calibration with Radial Distortion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lopez_Deep_Single_Image_Camera_Calibration_With_Radial_Distortion_CVPR_2019_paper.pdf)
 
-# Text Distortions
+# Text-Distortions
 
 + 2016-CVPR - Robust Scene Text Recognition with Automatic Rectification. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)[[Code]](https://github.com/marvis/ocr_attention)
 
@@ -201,7 +220,7 @@ A curated list of resources on Handling Rolling Shutter Effects, Radial Distorti
 
 - 2020-CVPR - Deep shutter unrolling network. [[Paper]](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)[[Dataset]](https://github.com/ethliup/DeepUnrollNet)
 
-# Other Resources
+# Other-Resources
 
 + [[awesome-image-rectification]](https://github.com/Mckinsey666/awesome-image-rectification)
 
