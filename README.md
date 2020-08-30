@@ -112,6 +112,8 @@
 
 + 2018-ECCV - Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yizhen_Lao_Rolling_Shutter_Pose_ECCV_2018_paper.html)[[Project page]](https://yizhenlao.github.io/)
 
++ 2018-ACCV -  Linear solution to the minimal absolute pose rolling shutter problem. [[Paper]](https://arxiv.org/abs/1812.11532)
+
 + 2019-PAMI - Rolling shutter camera absolute pose. [[Paper]](https://ieeexplore.ieee.org/document/8621045)[[Code]](http://cmp.felk.cvut.cz/~alblcene/r6p/)
 
 + 2020-CVPR - From two rolling shutters to one global shutter. [[Paper]]()
