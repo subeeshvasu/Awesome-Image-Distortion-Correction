@@ -94,6 +94,8 @@
 
 + 2016-CVPR - Rolling Shutter Camera Relative Pose: Generalized Epipolar Geometry. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Dai_Rolling_Shutter_Camera_CVPR_2016_paper.html)
 
++ 2016-ECCV - Degeneracies in rolling shutter sfm. [[Paper]](https://people.ciirc.cvut.cz/~pajdla/papers/Albl-ECCV-2016.pdf)
+
 + 2017-TIP - Camera Shutter-Independent Registration and Rectification. [[Paper]](https://ieeexplore.ieee.org/document/8241859)
 
 + 2017-CVPR - Self-Calibration-Based Approach to Critical Motion Sequences of Rolling-Shutter Structure From Motion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Ito_Self-Calibration-Based_Approach_to_CVPR_2017_paper.html)
