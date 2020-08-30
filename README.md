@@ -31,6 +31,8 @@
 
 + 2018-CVPR - A Robust Method for Strong Rolling Shutter Effects Correction Using Lines With Automatic Feature Selection. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lao_A_Robust_Method_CVPR_2018_paper.html)
 
++ 2018-WACV - Minimal solvers for monocular rolling shutter compensation under ackermann motion. [[Paper]](https://arxiv.org/pdf/1712.03159.pdf)
+
 + 2019-CVPR - Learning Structure-And-Motion-Aware Rolling Shutter Correction. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)[[Project Page]](http://www.nec-labs.com/~mas/SMARSC/)
 
 
@@ -86,6 +88,8 @@
 
 + 2015-ICCV - Dense Continuous-Time Tracking and Mapping With Rolling Shutter RGB-D Cameras. [[Paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Kerl_Dense_Continuous-Time_Tracking_ICCV_2015_paper.html)
 
+ 2015-IROS - A minimal solution to the rolling shutter pose estimation problem. [[Paper]](https://people.inf.ethz.ch/pomarc/pubs/SaurerIROS15.pdf)
+
 + 2016-ISP - An affine motion model for removing rolling shutter distortions. [[Paper]](https://ieeexplore.ieee.org/document/7514947)
 
 + 2016-CVPR - Sparse to dense 3d reconstruction from rolling shutter images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Saurer_Sparse_to_Dense_CVPR_2016_paper.html)
@@ -112,11 +116,13 @@
 
 + 2018-ECCV - Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yizhen_Lao_Rolling_Shutter_Pose_ECCV_2018_paper.html)[[Project page]](https://yizhenlao.github.io/)
 
++ 2018-ECCV - Direct sparse odometry with rolling shutter. [[Paper]](https://arxiv.org/abs/1808.00558)
+
 + 2018-ACCV -  Linear solution to the minimal absolute pose rolling shutter problem. [[Paper]](https://arxiv.org/abs/1812.11532)
 
 + 2019-PAMI - Rolling shutter camera absolute pose. [[Paper]](https://ieeexplore.ieee.org/document/8621045)[[Code]](http://cmp.felk.cvut.cz/~alblcene/r6p/)
 
-+ 2020-CVPR - From two rolling shutters to one global shutter. [[Paper]]()
++ 2020-CVPR - From two rolling shutters to one global shutter. [[Paper]](https://arxiv.org/abs/2006.01964)
 
 + 2020-CVPR - Deep shutter unrolling network. [[Paper]](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)[[Code]](https://github.com/ethliup/DeepUnrollNet)
 
