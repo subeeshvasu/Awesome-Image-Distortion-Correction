@@ -88,7 +88,7 @@
 
 + 2015-ICCV - Dense Continuous-Time Tracking and Mapping With Rolling Shutter RGB-D Cameras. [[Paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Kerl_Dense_Continuous-Time_Tracking_ICCV_2015_paper.html)
 
- 2015-IROS - A minimal solution to the rolling shutter pose estimation problem. [[Paper]](https://people.inf.ethz.ch/pomarc/pubs/SaurerIROS15.pdf)
++ 2015-IROS - A minimal solution to the rolling shutter pose estimation problem. [[Paper]](https://people.inf.ethz.ch/pomarc/pubs/SaurerIROS15.pdf)
 
 + 2016-ISP - An affine motion model for removing rolling shutter distortions. [[Paper]](https://ieeexplore.ieee.org/document/7514947)
 
