@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Image and Video Deblurring</h3>
+  <h3 align="center">Image Distortion Correction</h3>
   <p align="center">A curated list of resources on Handling Rolling Shutter Effects, Radial Distortions, and Text distortions.
     <br />
     <br />
