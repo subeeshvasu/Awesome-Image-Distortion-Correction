@@ -4,9 +4,9 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/subeeshvasu/Awesome-Deblurring/issues/new">Suggest new item</a>
+    <a href="https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction/issues/new">Suggest new item</a>
     <br />
-    <a href="https://github.com/subeeshvasu/Awesome-Deblurring/issues/new">Report Bug</a>
+    <a href="https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction/issues/new">Report Bug</a>
   </p>
 </p>
 
