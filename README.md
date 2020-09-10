@@ -88,65 +88,36 @@
 
 |Year|Conf|Title|Repo|
 |----|----|-----|----|
-+ 2001-CVPR - Simultaneous linear estimation of multiple view geometry and lens distortion. [[Paper]](http://www.robots.ox.ac.uk/~vgg/publications/papers/fitzgibbon01b.pdf)
-
-+ 2003 - Robust Line-Based Calibration of Lens Distortion from a Single View. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.6792&rep=rep1&type=pdf)
-
-+ 2007-PAMI - Parameter-free radial distortion correction with center of distortion estimation. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.2661&rep=rep1&type=pdf)
-
-+ 2009-PAMI -  Calibration of cameras with radially symmetric distortion. [[Paper]](https://hal.inria.fr/inria-00524395/document)
-
-+ 2009-JMIV - A simple method of radial distortion correction with centre of distortion estimation. [[Paper]](https://link.springer.com/article/10.1007/s10851-009-0162-1)
-
-+ 2011-PAMI - A minimal solution to radial distortion autocalibration. [[Paper]](https://www.researchgate.net/profile/Zuzana_Kukelova/publication/224236776_A_Minimal_Solution_to_Radial_Distortion_Autocalibration/links/00b7d51ffa8e0969c9000000/A-Minimal-Solution-to-Radial-Distortion-Autocalibration.pdf)
-
-+ 2012-JMIV - Automatic Radial Distortion Estimation from a Single Image. [[Paper]](http://www.cs.ait.ac.th/vgl/faisal/paper/JMIV-Paper.pdf)
-
-+ 2013-JMIV - Automatic radial distortion estimation from a single image. [[Paper]](https://link.springer.com/article/10.1007/s10851-012-0342-2)
-
-+ 2013-CVPR - Radial distortion self-calibration. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Brito_Radial_Distortion_Self-Calibration_2013_CVPR_paper.pdf)
-
-+ 2014-ICIP - Auto-rectification of user photos. [[Paper]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42532.pdf)
-
-+ 2014-ICIP - Radial distortion correction from a single image of a planar calibration pattern using convex optimization. [[Paper]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569891193.pdf)
-
-+ 2014-IPOL - Auto- matic lens distortion correction using one-parameter division models. [[Paper]](https://pdfs.semanticscholar.org/85be/954dcea4cdebbfbee55143a6e605ad813b45.pdf)
-
-+ 2015-ICIP - Radial lens distortion correction using cascaded one-parameter division model. [[Paper]](https://ieeexplore.ieee.org/document/7351478)
-
-+ 2015-ISVC - Lens Distortion Rectification using Triangulation based Interpolation. [[Paper]](https://arxiv.org/abs/1611.09559)
-
-+ 2015-CVPR - Line-based multi-label energy optimization for fisheye image rectification and calibration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)
-
-+ 2016-ACCV - Radial lens distortion correction using convolutional neural networks trained with synthesized images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)
-
-+ 2017-CVPR - Unsupervised Vanishing Point Detection and Camera Calibration from a Single Manhattan Image with Radial Distortion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Antunes_Unsupervised_Vanishing_Point_CVPR_2017_paper.pdf)
-
-+ 2017-ICCV - Parameter-free Lens Distortion Calibration of Central Cameras. [[Paper]](. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)
-
-+ 2017-CVIU - Automatic correction of perspective and optical distortions. [[Paper]](https://www.sciencedirect.com/science/article/pii/S107731421730111X)
-
-+ 2017-Arxiv - Pixel-variant Local Homography for Fisheye Stereo Rectification Minimizing Resampling Distortion. [[Paper]](https://arxiv.org/abs/1707.03775)
-
-+ 2018-ACCV - Rectification from Radially-Distorted Scales. [[Paper]](https://arxiv.org/abs/1807.06110)
-
-+ 2018-CVPR - Radially-Distorted Conjugate Translations. [[Paper]](http://cmp.felk.cvut.cz/~chum/papers/Pritts-CVPR18.pdf)
-
-+ 2018-ECCV - FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoqing_Yin_FishEyeRecNet_A_Multi-Context_ECCV_2018_paper.html)
-
-+ 2018-ECCVW - Semantic Segmentation of Fisheye Images. [[Paper]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Blott_Semantic_Segmentation_of_Fisheye_Images_ECCVW_2018_paper.pdf)
-
-+ 2018-ICPR - Radial lens distortion correction by adding a weight layer with inverted foveal models to convolutional neural networks. [[Paper]](https://ieeexplore.ieee.org/document/8545218)
-
-+ 2018-TCSVT - DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time. [[Paper]](https://ieeexplore.ieee.org/document/8636975)
-
-+ 2019-TOG - Distortion-Free Wide-Angle Portraits on Camera Phones. [[Paper]](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/shih_sig19_lowres.pdf)[[Project Page]](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/)
-
-+ 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
-
-+ 2019-CVPR - Blind geometric distortion correction on images through deep learning. [[Paper]](https://arxiv.org/abs/1909.03459)[[Code]](https://github.com/xiaoyu258/GeoProj)
-
-+ 2019-CVPR - Deep Single Image Camera Calibration with Radial Distortion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lopez_Deep_Single_Image_Camera_Calibration_With_Radial_Distortion_CVPR_2019_paper.pdf)
+|2001|CVPR|[Simultaneous linear estimation of multiple view geometry and lens distortion](http://www.robots.ox.ac.uk/~vgg/publications/papers/fitzgibbon01b.pdf)||
+|2003||[Robust Line-Based Calibration of Lens Distortion from a Single View](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.6792&rep=rep1&type=pdf)||
+|2007|PAMI|[Parameter-free radial distortion correction with center of distortion estimation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.2661&rep=rep1&type=pdf)||
+|2009|PAMI|[Calibration of cameras with radially symmetric distortion](https://hal.inria.fr/inria-00524395/document)||
+|2009|JMIV|[A simple method of radial distortion correction with centre of distortion estimation](https://link.springer.com/article/10.1007/s10851-009-0162-1)||
+|2011|PAMI|[A minimal solution to radial distortion autocalibration](https://www.researchgate.net/profile/Zuzana_Kukelova/publication/224236776_A_Minimal_Solution_to_Radial_Distortion_Autocalibration/links/00b7d51ffa8e0969c9000000/A-Minimal-Solution-to-Radial-Distortion-Autocalibration.pdf)||
+|2012|JMIV|[Automatic Radial Distortion Estimation from a Single Image](http://www.cs.ait.ac.th/vgl/faisal/paper/JMIV-Paper.pdf)||
+|2013|JMIV|[Automatic radial distortion estimation from a single image](https://link.springer.com/article/10.1007/s10851-012-0342-2)||
+|2013|CVPR|[Radial distortion self-calibration](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Brito_Radial_Distortion_Self-Calibration_2013_CVPR_paper.pdf)||
+|2014|ICIP|[Auto-rectification of user photos](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42532.pdf)||
+|2014|ICIP|[Radial distortion correction from a single image of a planar calibration pattern using convex optimization](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569891193.pdf)||
+|2014|IPOL|[Auto- matic lens distortion correction using one-parameter division models](https://pdfs.semanticscholar.org/85be/954dcea4cdebbfbee55143a6e605ad813b45.pdf)||
+|2015|ICIP|[Radial lens distortion correction using cascaded one-parameter division model](https://ieeexplore.ieee.org/document/7351478)||
+|2015|ISVC|[Lens Distortion Rectification using Triangulation based Interpolation](https://arxiv.org/abs/1611.09559)||
+|2015|CVPR|[Line-based multi-label energy optimization for fisheye image rectification and calibration](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)||
+|2016|ACCV|[Radial lens distortion correction using convolutional neural networks trained with synthesized images](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)||
+|2017|CVPR|[Unsupervised Vanishing Point Detection and Camera Calibration from a Single Manhattan Image with Radial Distortion](http://openaccess.thecvf.com/content_cvpr_2017/papers/Antunes_Unsupervised_Vanishing_Point_CVPR_2017_paper.pdf)||
+|2017|ICCV|[Parameter-free Lens Distortion Calibration of Central Cameras](https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3)||
+|2017|CVIU|[Automatic correction of perspective and optical distortions](https://www.sciencedirect.com/science/article/pii/S107731421730111X)||
+|2017|Arxiv|[Pixel-variant Local Homography for Fisheye Stereo Rectification Minimizing Resampling Distortion](https://arxiv.org/abs/1707.03775)||
+|2018|ACCV|[Rectification from Radially-Distorted Scales](https://arxiv.org/abs/1807.06110)||
+|2018|CVPR|[Radially-Distorted Conjugate Translations](http://cmp.felk.cvut.cz/~chum/papers/Pritts-CVPR18.pdf)||
+|2018|ECCV|[FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoqing_Yin_FishEyeRecNet_A_Multi-Context_ECCV_2018_paper.html)||
+|2018|ECCVW|[Semantic Segmentation of Fisheye Images](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Blott_Semantic_Segmentation_of_Fisheye_Images_ECCVW_2018_paper.pdf)||
+|2018|ICPR|[Radial lens distortion correction by adding a weight layer with inverted foveal models to convolutional neural networks](https://ieeexplore.ieee.org/document/8545218)||
+|2018|TCSVT|[DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time](https://ieeexplore.ieee.org/document/8636975)||
+|2019|TOG|[Distortion-Free Wide-Angle Portraits on Camera Phones](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/shih_sig19_lowres.pdf)|[Project Page](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/)|
+|2019|CVPR|[Learning to calibrate straight lines for fisheye image rectification](https://arxiv.org/abs/1904.09856)||
+|2019|CVPR|[Blind geometric distortion correction on images through deep learning](https://arxiv.org/abs/1909.03459)|[Code](https://github.com/xiaoyu258/GeoProj)|
+|2019|CVPR|[Deep Single Image Camera Calibration with Radial Distortion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lopez_Deep_Single_Image_Camera_Calibration_With_Radial_Distortion_CVPR_2019_paper.pdf)||
 
 # Text-Distortions
 
