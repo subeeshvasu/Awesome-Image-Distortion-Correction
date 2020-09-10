@@ -23,7 +23,9 @@
 
 ## Single-Image
 
-+ 2016-CVPR - From bows to arrows: Rolling shutter rectification of urban scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Rengarajan_From_Bows_to_CVPR_2016_paper.html)
+|Year|Conf|Title|Repo|
+|----|----|-----|----|
+|2016|CVPR|[From bows to arrows: Rolling shutter rectification of urban scenes](http://openaccess.thecvf.com/content_cvpr_2016/html/Rengarajan_From_Bows_to_CVPR_2016_paper.html)||
 
 + 2017-CVPR - Unrolling the shutter: Cnn to correct motion distortions. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Rengarajan_Unrolling_the_Shutter_CVPR_2017_paper.html)
 
