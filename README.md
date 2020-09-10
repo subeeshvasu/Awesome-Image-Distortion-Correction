@@ -30,7 +30,7 @@
 |2017|ICCV|[Rolling Shutter Correction in Manhattan World](http://openaccess.thecvf.com/content_iccv_2017/html/Purkait_Rolling_Shutter_Correction_ICCV_2017_paper.html)|
 |2018|CVPR|[A Robust Method for Strong Rolling Shutter Effects Correction Using Lines With Automatic Feature Selection](http://openaccess.thecvf.com/content_cvpr_2018/html/Lao_A_Robust_Method_CVPR_2018_paper.html)|
 |2018|WACV|[Minimal solvers for monocular rolling shutter compensation under ackermann motion](https://arxiv.org/pdf/1712.03159.pdf)|
-|2019|CVPR|[Learning Structure-And-Motion-Aware Rolling Shutter Correction](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)|[Project Page](http://www.nec-labs.com/~mas/SMARSC/)|
+|2019|CVPR|[Learning Structure-And-Motion-Aware Rolling Shutter Correction](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)|[Proj-Page](http://www.nec-labs.com/~mas/SMARSC/)|
 
 
 ## Multi-image/Video
