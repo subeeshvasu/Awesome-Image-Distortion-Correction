@@ -26,16 +26,11 @@
 |Year|Conf|Title|Repo|
 |----|----|-----|----|
 |2016|CVPR|[From bows to arrows: Rolling shutter rectification of urban scenes](http://openaccess.thecvf.com/content_cvpr_2016/html/Rengarajan_From_Bows_to_CVPR_2016_paper.html)||
-
-+ 2017-CVPR - Unrolling the shutter: Cnn to correct motion distortions. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Rengarajan_Unrolling_the_Shutter_CVPR_2017_paper.html)
-
-+ 2017-ICCV - Rolling Shutter Correction in Manhattan World. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Purkait_Rolling_Shutter_Correction_ICCV_2017_paper.html)
-
-+ 2018-CVPR - A Robust Method for Strong Rolling Shutter Effects Correction Using Lines With Automatic Feature Selection. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lao_A_Robust_Method_CVPR_2018_paper.html)
-
-+ 2018-WACV - Minimal solvers for monocular rolling shutter compensation under ackermann motion. [[Paper]](https://arxiv.org/pdf/1712.03159.pdf)
-
-+ 2019-CVPR - Learning Structure-And-Motion-Aware Rolling Shutter Correction. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)[[Project Page]](http://www.nec-labs.com/~mas/SMARSC/)
+|2017|CVPR|[Unrolling the shutter: Cnn to correct motion distortions](http://openaccess.thecvf.com/content_cvpr_2017/html/Rengarajan_Unrolling_the_Shutter_CVPR_2017_paper.html)|
+|2017|ICCV|[Rolling Shutter Correction in Manhattan World](http://openaccess.thecvf.com/content_iccv_2017/html/Purkait_Rolling_Shutter_Correction_ICCV_2017_paper.html)|
+|2018|CVPR|[A Robust Method for Strong Rolling Shutter Effects Correction Using Lines With Automatic Feature Selection](http://openaccess.thecvf.com/content_cvpr_2018/html/Lao_A_Robust_Method_CVPR_2018_paper.html)|
+|2018|WACV|[Minimal solvers for monocular rolling shutter compensation under ackermann motion](https://arxiv.org/pdf/1712.03159.pdf)|
+|2019|CVPR|[Learning Structure-And-Motion-Aware Rolling Shutter Correction](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.html)|[Project Page](http://www.nec-labs.com/~mas/SMARSC/)|
 
 
 ## Multi-image/Video
