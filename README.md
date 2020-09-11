@@ -123,17 +123,12 @@
 
 |Year|Conf|Title|Repo|
 |----|----|-----|----|
-+ 2016-CVPR - Robust Scene Text Recognition with Automatic Rectification. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)[[Code]](https://github.com/marvis/ocr_attention)
-
-+ 2019-PR - MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition. [[Paper]](https://arxiv.org/abs/1901.03003) [[Code]](https://github.com/Canjie-Luo/MORAN_v2)
-
-+ 2019-CVPR - ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
-
-+ 2019-CVPR - Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Arbitrary_Shape_Scene_Text_Detection_With_Adaptive_Text_Region_Representation_CVPR_2019_paper.html)
- 
- + 2019-CVPR - Towards Robust Curve Text Detection with Conditional Spatial Expansion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)
- 
- + 2019-ICCV - Symmetry-constrained Rectification Network for Scene Text Recognition. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
+|2016|CVPR|[Robust Scene Text Recognition with Automatic Rectification](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)|[Code](https://github.com/marvis/ocr_attention)|
+|2019|PR|[MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003)|[Code](https://github.com/Canjie-Luo/MORAN_v2)|
+|2019|CVPR|[ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)||
+|2019|CVPR|[Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Arbitrary_Shape_Scene_Text_Detection_With_Adaptive_Text_Region_Representation_CVPR_2019_paper.html)||
+|2019|CVPR|[Towards Robust Curve Text Detection with Conditional Spatial Expansion](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)||
+|2019|ICCV|[Symmetry-constrained Rectification Network for Scene Text Recognition](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)||
  
 # Other forms of distortions
 
