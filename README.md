@@ -139,19 +139,13 @@
 
 |Year|Conf|Title|Repo|
 |----|----|-----|----|
-+ 2013-ICCV - Unsupervised Intrinsic Calibration from a Single Frame Using a "Plumb-Line" Approach. [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Melo_Unsupervised_Intrinsic_Calibration_2013_ICCV_paper.pdf)
-
-+ 2017-CVPR - Deep View Morphing. [[Paper]](https://arxiv.org/pdf/1703.02168.pdf)[[Project Page]](https://github.com/Gamrix/cs231n_proj)
-
-+ 2018-ICB - Fingerprint Distortion Rectification using Deep Convolutional Neural Networks. [[Paper]](https://arxiv.org/abs/1801.01198)
-
-+ 2018-IJCAI - Distortion-aware CNNs for Spherical Images. [[Paper]](https://www.ijcai.org/Proceedings/2018/0167.pdf)[[Project Page]](https://github.com/tdsuper/Distortion-aware-CNNs)
-
-+ 2018-ECCV - GridFace: Face Rectification via Learning Local Homography Transformations. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.html)
- 
-+ 2018-IV - CNN-based Fisheye Image Real-Time Semantic Segmentation. [[Paper]](http://www.robesafe.es/personal/bergasa/papers/iv2018_cnn-fisheye.pdf)
-
-+ 2019-ICCV - Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations. [[Paper]](https://arxiv.org/abs/1908.01940)[[Code]](https://github.com/jeringeo/CompressiveFlows)
+|2013|ICCV|[Unsupervised Intrinsic Calibration from a Single Frame Using a "Plumb-Line" Approach](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Melo_Unsupervised_Intrinsic_Calibration_2013_ICCV_paper.pdf)||
+|2017|CVPR|[Deep View Morphing](https://arxiv.org/pdf/1703.02168.pdf)|[Project Page](https://github.com/Gamrix/cs231n_proj)|
+|2018|ICB|[Fingerprint Distortion Rectification using Deep Convolutional Neural Networks](https://arxiv.org/abs/1801.01198)
+|2018|IJCAI|[Distortion-aware CNNs for Spherical Images](https://www.ijcai.org/Proceedings/2018/0167.pdf)|[Project Page](https://github.com/tdsuper/Distortion-aware-CNNs)|
+|2018|ECCV|[GridFace: Face Rectification via Learning Local Homography Transformations](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.html)||
+|2018|IV|[CNN-based Fisheye Image Real-Time Semantic Segmentation](http://www.robesafe.es/personal/bergasa/papers/iv2018_cnn-fisheye.pdf)||
+|2019|ICCV|[Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations](https://arxiv.org/abs/1908.01940)|[Code](https://github.com/jeringeo/CompressiveFlows)|
 
 # Datasets
 
