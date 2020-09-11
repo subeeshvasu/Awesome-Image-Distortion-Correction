@@ -151,15 +151,11 @@
 
 |Year|Conf|Title|Repo|
 |----|----|-----|----|
-+ 2016-CVPR - Robust Scene Text Recognition with Automatic Rectification. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)[[Dataset]](https://github.com/marvis/ocr_attention)
-
-- 2017-ICCV - Rolling-shutter aware differential sfm and image rectification. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)[[Dataset]](https://bbzh.github.io/document/data.rar)
-
-+ 2018-Arxiv - Parameterized Synthetic Image Data Set for Fisheye Lens. [[Paper]](https://arxiv.org/abs/1811.04627) [[Dataset]](http://www2.leuphana.de/misl/fisheye-data-set/)
-
-+ 2019-CVPR - Learning to calibrate straight lines for fisheye image rectification. [[Paper]](https://arxiv.org/abs/1904.09856)
-
-- 2020-CVPR - Deep shutter unrolling network. [[Paper]](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)[[Dataset]](https://github.com/ethliup/DeepUnrollNet)
+|2016|CVPR|[Robust Scene Text Recognition with Automatic Rectification](http://openaccess.thecvf.com/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)|[Dataset](https://github.com/marvis/ocr_attention)|
+|2017|ICCV|[Rolling-shutter aware differential sfm and image rectification](http://openaccess.thecvf.com/content_iccv_2017/html/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.html)|[Dataset](https://bbzh.github.io/document/data.rar)|
+|2018|Arxiv|[Parameterized Synthetic Image Data Set for Fisheye Lens](https://arxiv.org/abs/1811.04627)|[Dataset](http://www2.leuphana.de/misl/fisheye-data-set/)|
+|2019|CVPR|[Learning to calibrate straight lines for fisheye image rectification](https://arxiv.org/abs/1904.09856)||
+|2020|CVPR|[Deep shutter unrolling network](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)|[Dataset](https://github.com/ethliup/DeepUnrollNet)|
 
 # Other-Resources
 
