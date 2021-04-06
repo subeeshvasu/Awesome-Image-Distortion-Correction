@@ -34,7 +34,9 @@
 |2020|JOSA|[Deep End-to-End Rolling Shutter Rectification](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1574)||
 |2020|Arxiv|[Learning Rolling Shutter Correction from Real Data without Camera Motion Assumption](https://arxiv.org/pdf/2011.03106.pdf)|[Code](https://github.com/IRVLab/unrolling)|
 |2020|Arxiv|[Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect](https://arxiv.org/abs/2011.13375)||
+|2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Code](https://github.com/zzh-tech/RSCD)|
 |2021|Arxiv|[They See Me Rollin': Inherent Vulnerability of the Rolling Shutter in CMOS Image Sensors](https://arxiv.org/abs/2101.10011)||
+
 
 
 ## Multi-image/Video
