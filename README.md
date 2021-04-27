@@ -89,6 +89,7 @@
 |2020|CVPR|[Deep shutter unrolling network](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)|[Code](https://github.com/ethliup/DeepUnrollNet)|
 |2020|TPAMI|[Rolling shutter homography and its applications](https://yizhenlao.github.io/files/RSHomo_PAMI2020.pdf)||
 |2020|ECCV|[Image Stitching and Rectification for Hand-Held Cameras](https://arxiv.org/pdf/2008.09229.pdf)||
+|2021|TIP|[Simultaneous Video Stabilization and Rolling Shutter Removal](https://ieeexplore.ieee.org/document/9411701)||
 
 # Radial-Distortions
 
