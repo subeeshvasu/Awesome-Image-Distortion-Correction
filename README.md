@@ -92,6 +92,10 @@
 |2020|TPAMI|[Rolling shutter homography and its applications](https://yizhenlao.github.io/files/RSHomo_PAMI2020.pdf)||
 |2020|ECCV|[Image Stitching and Rectification for Hand-Held Cameras](https://arxiv.org/pdf/2008.09229.pdf)||
 |2021|TIP|[Simultaneous Video Stabilization and Rolling Shutter Removal](https://ieeexplore.ieee.org/document/9411701)||
+|2021|CVIU|[Rolling-Shutter-Stereo-Aware Motion Estimation and Image Correction](https://www.sciencedirect.com/science/article/abs/pii/S1077314221001405)||
+|2021|ICCV|[Sunet: symmetric undistortion network for rolling shutter correction](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_SUNet_Symmetric_Undistortion_Network_for_Rolling_Shutter_Correction_ICCV_2021_paper.pdf)|[Code](https://github.com/GitCVfb/SUNet)|
+|2021|ICCV|[Inverting a rolling shutter camera: bring rolling shutter images to high framerate global shutter video](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Inverting_a_Rolling_Shutter_Camera_Bring_Rolling_Shutter_Images_to_ICCV_2021_paper.pdf)|[Code](https://github.com/GitCVfb/RSSR)|
+|2022|CVPR|[Context-Aware Video Reconstruction for Rolling Shutter Cameras](https://arxiv.org/pdf/2205.12912.pdf)|[Code](https://github.com/GitCVfb/CVR)|
 
 # Radial-Distortions
 
@@ -127,6 +131,7 @@
 |2019|CVPR|[Learning to calibrate straight lines for fisheye image rectification](https://arxiv.org/abs/1904.09856)||
 |2019|CVPR|[Blind geometric distortion correction on images through deep learning](https://arxiv.org/abs/1909.03459)|[Code](https://github.com/xiaoyu258/GeoProj)|
 |2019|CVPR|[Deep Single Image Camera Calibration with Radial Distortion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lopez_Deep_Single_Image_Camera_Calibration_With_Radial_Distortion_CVPR_2019_paper.pdf)||
+|2021|SPL|[Fast and Robust Differential Relative Pose Estimation With Radial Distortion](https://ieeexplore.ieee.org/abstract/document/9648026/)||
 
 # Text-Distortions
 
