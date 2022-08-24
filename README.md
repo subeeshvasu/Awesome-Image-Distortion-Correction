@@ -34,7 +34,6 @@
 |2020|JOSA|[Deep End-to-End Rolling Shutter Rectification](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1574)||
 |2020|Arxiv|[Learning Rolling Shutter Correction from Real Data without Camera Motion Assumption](https://arxiv.org/pdf/2011.03106.pdf)|[Code](https://github.com/IRVLab/unrolling)|
 |2020|Arxiv|[Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect](https://arxiv.org/abs/2011.13375)||
-|2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Code](https://github.com/zzh-tech/RSCD)|
 |2021|CVPR|[Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect](https://arxiv.org/abs/2011.13375)||
 |2021|Arxiv|[They See Me Rollin': Inherent Vulnerability of the Rolling Shutter in CMOS Image Sensors](https://arxiv.org/abs/2101.10011)||
 
@@ -93,9 +92,12 @@
 |2020|ECCV|[Image Stitching and Rectification for Hand-Held Cameras](https://arxiv.org/pdf/2008.09229.pdf)||
 |2021|TIP|[Simultaneous Video Stabilization and Rolling Shutter Removal](https://ieeexplore.ieee.org/document/9411701)||
 |2021|CVIU|[Rolling-Shutter-Stereo-Aware Motion Estimation and Image Correction](https://www.sciencedirect.com/science/article/abs/pii/S1077314221001405)||
+|2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Code](https://github.com/zzh-tech/RSCD)|
 |2021|ICCV|[Sunet: symmetric undistortion network for rolling shutter correction](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_SUNet_Symmetric_Undistortion_Network_for_Rolling_Shutter_Correction_ICCV_2021_paper.pdf)|[Code](https://github.com/GitCVfb/SUNet)|
 |2021|ICCV|[Inverting a rolling shutter camera: bring rolling shutter images to high framerate global shutter video](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Inverting_a_Rolling_Shutter_Camera_Bring_Rolling_Shutter_Images_to_ICCV_2021_paper.pdf)|[Code](https://github.com/GitCVfb/RSSR)|
 |2022|CVPR|[Context-Aware Video Reconstruction for Rolling Shutter Cameras](https://arxiv.org/pdf/2205.12912.pdf)|[Code](https://github.com/GitCVfb/CVR)|
+|2022|CVPR|[Learning Adaptive Warping for Real-World Rolling Shutter Correction](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Learning_Adaptive_Warping_for_Real-World_Rolling_Shutter_Correction_CVPR_2022_paper.pdf)|[Code](https://github.com/ljzycmd/BSRSC)|
+|2022|ECCV|[Bringing Rolling Shutter Images Alive with Dual Reversed Distortion](https://arxiv.org/abs/2203.06451)|[Code](https://github.com/zzh-tech/Dual-Reversed-RS)|
 
 # Radial-Distortions
 
@@ -165,6 +167,8 @@
 |2018|Arxiv|[Parameterized Synthetic Image Data Set for Fisheye Lens](https://arxiv.org/abs/1811.04627)|[Dataset](http://www2.leuphana.de/misl/fisheye-data-set/)|
 |2019|CVPR|[Learning to calibrate straight lines for fisheye image rectification](https://arxiv.org/abs/1904.09856)||
 |2020|CVPR|[Deep shutter unrolling network](http://people.inf.ethz.ch/liup/documents/myPapers/2020_cvpr_DeepUnroll_final.pdf)|[Dataset](https://github.com/ethliup/DeepUnrollNet)|
+|2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Dataset](https://github.com/zzh-tech/RSCD)|
+|2022|CVPR|[Learning Adaptive Warping for Real-World Rolling Shutter Correction](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Learning_Adaptive_Warping_for_Real-World_Rolling_Shutter_Correction_CVPR_2022_paper.pdf)|[Dataset](https://github.com/ljzycmd/BSRSC)|
 
 # Other-Resources
 
