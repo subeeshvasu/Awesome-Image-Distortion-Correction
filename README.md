@@ -99,6 +99,8 @@
 |2022|CVPR|[Learning Adaptive Warping for Real-World Rolling Shutter Correction](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Learning_Adaptive_Warping_for_Real-World_Rolling_Shutter_Correction_CVPR_2022_paper.pdf)|[Code](https://github.com/ljzycmd/BSRSC)|
 |2022|CVPR|[Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature](https://arxiv.org/abs/2204.00974)|[Code](https://github.com/lightChaserX/neural-global-shutter)|
 |2022|ECCV|[Bringing Rolling Shutter Images Alive with Dual Reversed Distortion](https://arxiv.org/abs/2203.06451)|[Code](https://github.com/zzh-tech/Dual-Reversed-RS)|
+|2022|ECCV|[Combining Internal and External Constraints for Unrolling Shutter in Videos](https://arxiv.org/abs/2207.11725)|[Code](https://github.com/eyalnaor/VideoRollingShutter)|
+|2023|WACV|[Joint Video Rolling Shutter Correction and Super-Resolution](https://openaccess.thecvf.com/content/WACV2023/html/Gupta_Joint_Video_Rolling_Shutter_Correction_and_Super-Resolution_WACV_2023_paper.html)||
 
 # Radial-Distortions
 
