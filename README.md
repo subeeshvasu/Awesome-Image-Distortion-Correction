@@ -55,7 +55,7 @@
 |2011|ICIP|[Automatic video deshearing for skew sequences captured by rolling shutter cameras](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2011/papers/1569409231.pdf)|
 |2011||[Digital video stabilization and rolling shutter correction using gyroscopes](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2011/papers/1569409231.pdf)||
 |2012|TCE|[Rolling shutter distortion removal based on curve interpolation](https://ieeexplore.ieee.org/document/6311354)||
-|2012|ICCP|[Calibration-free rolling shutter removal](https://smartech.gatech.edu/bitstream/handle/1853/48740/2012-Grundmann-CRSR.pdf?sequence=1&isAllowed=y)||
+|2012|ICCP|[Calibration-free rolling shutter removal](https://smartech.gatech.edu/bitstream/handle/1853/48740/2012-Grundmann-CRSR.pdf?sequence=1&isAllowed=y)|[Code](https://github.com/lhaippp/Homography-Mixtures)|
 |2012|CVPR|[Rolling shutter bundle adjustment](http://users.isy.liu.se/cvl/perfo/papers/hedborg_cvpr12.pdf)||
 |2012|ECCV|[Global optimization of object pose and motion from a single rolling shutter image with automatic 2d-3d matching](https://magerand.fr/public/Publications/ECCV12.pdf)||
 |2012|IJCV|[Efficient video rectification and stabilisation for cell-phones](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s11263-011-0465-8.pdf&casa_token=LkIfIK_iEFEAAAAA:fimMIBjrcp5_ieWzVazw01Uf0n0IimeqrnC8A2wuTbQGqDrXPCMi5tU00YCYB8VBhYqbt0GTt5QLW3VC)||
